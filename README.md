@@ -13,6 +13,7 @@ A simple React application created for training purposes.
 ## Technologies
 
 - React
+- Vite
 - JavaScript
 - CSS
 
